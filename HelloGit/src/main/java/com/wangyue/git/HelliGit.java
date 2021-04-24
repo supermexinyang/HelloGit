@@ -8,5 +8,6 @@ public class HelliGit {
         System.out.println("创建分支");
         System.out.println("主干分支");
         System.out.println("枝干分支");
+        System.out.println("在线更新");
     }
 }
